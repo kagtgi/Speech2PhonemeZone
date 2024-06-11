@@ -1,0 +1,78 @@
+Full Length: 0.7431746031746032
+Input File: bahnaric/dataset/raw/TestAudio\rong_3.wav
+Phoneme: r
+Time part: 0.3210065230120312
+Phoneme: o
+Time part: 0.253772232422708
+Phoneme: ng
+Time part: 0.16839584773986394
+Full Length: 0.8395918367346938
+Input File: bahnaric/dataset/raw/TestAudio\sen_3.wav
+Phoneme: s
+Time part: 0.31271298389428437
+Phoneme: e
+Time part: 0.34790397991392114
+Phoneme: n
+Time part: 0.17897487292648834
+Full Length: 0.73578231292517
+Input File: bahnaric/dataset/raw/TestAudio\sơm_3.wav
+Phoneme: s
+Time part: 0.32879664606171716
+Phoneme: ơ
+Time part: 0.15513188227665548
+Phoneme: m
+Time part: 0.2518537845867973
+Full Length: 0.6566893424036281
+Input File: bahnaric/dataset/raw/TestAudio\sung_3.wav
+Phoneme: s
+Time part: 0.30811156637039583
+Phoneme: u
+Time part: 0.2753046272839986
+Phoneme: ng
+Time part: 0.07327314874923355
+Full Length: 0.6538321995464853
+Input File: bahnaric/dataset/raw/TestAudio\ta_3.wav
+Phoneme: t
+Time part: 0.0498825118907369
+Phoneme: a
+Time part: 0.6039496876557484
+Full Length: 0.47541950113378684
+Input File: bahnaric/dataset/raw/TestAudio\tam_3.wav
+Phoneme: t
+Time part: 0.02301797720155925
+Phoneme: a
+Time part: 0.2786888553607576
+Phoneme: m
+Time part: 0.17371266857146997
+Full Length: 0.6984126984126984
+Input File: bahnaric/dataset/raw/TestAudio\tol_3.wav
+Phoneme: t
+Time part: 0.07161503599714253
+Phoneme: o
+Time part: 0.25286983368484184
+Phoneme: l
+Time part: 0.37392782873071406
+Full Length: 0.43201814058956917
+Input File: bahnaric/dataset/raw/TestAudio\yak_6.wav
+Phoneme: y
+Time part: 0.07482050024027387
+Phoneme: a
+Time part: 0.3175530254914416
+Phoneme: k
+Time part: 0.039644614857853665
+Full Length: 0.7116553287981859
+Input File: bahnaric/dataset/raw/TestAudio\yol_3.wav
+Phoneme: y
+Time part: 0.17493651314585967
+Phoneme: o
+Time part: 0.21652920198599754
+Phoneme: l
+Time part: 0.3201896136663286
+Full Length: 0.8746031746031746
+Input File: bahnaric/dataset/raw/TestAudio\yui_3.wav
+Phoneme: y
+Time part: 0.11697997942847613
+Phoneme: u
+Time part: 0.3609969101976581
+Phoneme: i
+Time part: 0.39662628497704044

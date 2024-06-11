@@ -1,0 +1,1415 @@
+
+
+Full Length: 0.15038548752834466
+Input File: bahnaric/dataset/raw\bar_test.wav
+Phoneme: y
+Time part: 0.08167323372103379
+Phoneme: ŭq
+Time part: 0.06871225380731086
+Full Length: 0.12263038548752835
+Input File: bahnaric/dataset/raw\bu_test.wav
+Phoneme: y
+Time part: 0.036550280673363654
+Phoneme: ih
+Time part: 0.08608010481416467
+Full Length: 0.22390022675736962
+Input File: bahnaric/dataset/raw\buch_test.wav
+Phoneme: y
+Time part: 0.04032556798551288
+Phoneme: ĕr
+Time part: 0.18357465877185675
+Full Length: 0.21419501133786847
+Input File: bahnaric/dataset/raw\bĭ_test.wav
+Phoneme: y
+Time part: 0.03891152617203031
+Phoneme: ol
+Time part: 0.17528348516583814
+Full Length: 0.7564172335600907
+Input File: bahnaric/dataset/raw\chih_test.wav
+Phoneme: ch
+Time part: 0.014624253823800882
+Phoneme: i
+Time part: 0.1670787457502689
+Phoneme: h
+Time part: 0.05870615869851229
+Phoneme: au
+Time part: 0.5160080752875086
+Full Length: 0.23315192743764174
+Input File: bahnaric/dataset/raw\chup_test.wav
+Phoneme: v
+Time part: 0.12603389165682913
+Phoneme: ă
+Time part: 0.10711803578081261
+Full Length: 0.25414965986394555
+Input File: bahnaric/dataset/raw\chă_test.wav
+Phoneme: y
+Time part: 0.03949165006703975
+Phoneme: a
+Time part: 0.167610386460467
+Phoneme: h
+Time part: 0.04704762333643877
+Full Length: 0.26344671201814057
+Input File: bahnaric/dataset/raw\di_test.wav
+Phoneme: p
+Time part: 0.014472266328783592
+Phoneme: a
+Time part: 0.24897444568935698
+Full Length: 0.4708390022675737
+Input File: bahnaric/dataset/raw\dui_test.wav
+Phoneme: r
+Time part: 0.08700934365660583
+Phoneme: ơ
+Time part: 0.09055662826901889
+Phoneme: y
+Time part: 0.05557252447300332
+Phoneme: u
+Time part: 0.17149523982352843
+Phoneme: h
+Time part: 0.06620526604541722
+Full Length: 0.2873469387755102
+Input File: bahnaric/dataset/raw\ga_test.wav
+Phoneme: g
+Time part: 0.08759319862430923
+Phoneme: i
+Time part: 0.199753740151201
+Full Length: 0.23170068027210886
+Input File: bahnaric/dataset/raw\Goh_test.wav
+Phoneme: g
+Time part: 0.07109864737417808
+Phoneme: oh
+Time part: 0.16060203289793076
+Full Length: 0.1946485260770975
+Input File: bahnaric/dataset/raw\Grâm_test.wav
+Phoneme: Gr
+Time part: 0.04633151587236161
+Phoneme: âm
+Time part: 0.1483170102047359
+Full Length: 0.3580952380952381
+Input File: bahnaric/dataset/raw\grưa_test.wav
+Phoneme: ch
+Time part: 0.01740272607606397
+Phoneme: r
+Time part: 0.09181224139313901
+Phoneme: a
+Time part: 0.24888027062603513
+Full Length: 0.2218140589569161
+Input File: bahnaric/dataset/raw\gum_test.wav
+Phoneme: p
+Time part: 0.016420006996783348
+Phoneme: u
+Time part: 0.20539405196013275
+Full Length: 0.23206349206349206
+Input File: bahnaric/dataset/raw\gô_test.wav
+Phoneme: k
+Time part: 0.03081979840761323
+Phoneme: ơ
+Time part: 0.09478209770060467
+Phoneme: l
+Time part: 0.10646159595527416
+Full Length: 0.36421768707482993
+Input File: bahnaric/dataset/raw\han_test.wav
+Phoneme: m
+Time part: 0.1596305295653674
+Phoneme: i
+Time part: 0.20458715750946255
+Full Length: 0.1816326530612245
+Input File: bahnaric/dataset/raw\hâk_test.wav
+Phoneme: h
+Time part: 0.09365876328695148
+Phoneme: ư
+Time part: 0.06464261487063375
+Phoneme: ch
+Time part: 0.023331274903639235
+Full Length: 0.2573242630385488
+Input File: bahnaric/dataset/raw\hăk_test.wav
+Phoneme: p
+Time part: 0.009592500383198005
+Phoneme: l
+Time part: 0.07116741317405775
+Phoneme: a
+Time part: 0.16502511848691256
+Phoneme: ch
+Time part: 0.011539230994380456
+Full Length: 0.5687074829931973
+Input File: bahnaric/dataset/raw\hămđunh_test.wav
+Phoneme: m
+Time part: 0.14496329004809058
+Phoneme: u
+Time part: 0.1690995468196385
+Phoneme: d
+Time part: 0.04409698669905152
+Phoneme: e
+Time part: 0.21054765942641673
+Full Length: 0.29718820861678
+Input File: bahnaric/dataset/raw\hăp_test.wav
+Phoneme: m
+Time part: 0.20834540911187202
+Phoneme: ă
+Time part: 0.08884279950490798
+Phoneme: q
+Time part: 0.0
+Full Length: 0.27197278911564626
+Input File: bahnaric/dataset/raw\hơlah_test.wav
+Phoneme: c
+Time part: 0.016368489581001237
+Phoneme: a
+Time part: 0.17858790673794753
+Phoneme: l
+Time part: 0.0770163927966975
+Full Length: 0.32090702947845806
+Input File: bahnaric/dataset/raw\hơ_da_test.wav
+Phoneme: l
+Time part: 0.13612351683306356
+Phoneme: ŭ
+Time part: 0.09618247749454087
+Phoneme: h
+Time part: 0.0886010351508536
+Full Length: 0.3132879818594104
+Input File: bahnaric/dataset/raw\hơ_lah_test.wav
+Phoneme: l
+Time part: 0.13818123516673705
+Phoneme: ă
+Time part: 0.08516636931312946
+Phoneme: h
+Time part: 0.08994037737954393
+Full Length: 0.5366439909297052
+Input File: bahnaric/dataset/raw\hơ_long_test.wav
+Phoneme: h
+Time part: 0.0952749289478356
+Phoneme: ơ
+Time part: 0.1303185809746256
+Phoneme: l
+Time part: 0.1463770527321507
+Phoneme: o
+Time part: 0.09898792797877669
+Phoneme: ng
+Time part: 0.06568550029631653
+Full Length: 0.5523356009070295
+Input File: bahnaric/dataset/raw\hơ_ra_test.wav
+Phoneme: l
+Time part: 0.11096801460375687
+Phoneme: i
+Time part: 0.20556112842849886
+Phoneme: l
+Time part: 0.11096801460375687
+Phoneme: o
+Time part: 0.075042458039134
+Phoneme: ng
+Time part: 0.04979598523188295
+Full Length: 0.20784580498866212
+Input File: bahnaric/dataset/raw\hơ_rul_test.wav
+Phoneme: l
+Time part: 0.060182054851349163
+Phoneme: a
+Time part: 0.13955194223990788
+Phoneme: p
+Time part: 0.008111807897405055
+Full Length: 0.2872108843537415
+Input File: bahnaric/dataset/raw\jal_test.wav
+Phoneme: l
+Time part: 0.06650201504252679
+Phoneme: a
+Time part: 0.1542068542686879
+Phoneme: l
+Time part: 0.06650201504252679
+Full Length: 0.303718820861678
+Input File: bahnaric/dataset/raw\jur_test.wav
+Phoneme: k
+Time part: 0.03626842621999995
+Phoneme: u
+Time part: 0.21123071026411586
+Phoneme: ng
+Time part: 0.05621968437756224
+Full Length: 0.06816326530612245
+Input File: bahnaric/dataset/raw\Jĕryŏng_test.wav
+Phoneme: b
+Time part: 0.03746645233435843
+Phoneme: uch
+Time part: 0.030696812971764013
+Full Length: 0.27945578231292517
+Input File: bahnaric/dataset/raw\jĭ_test.wav
+Phoneme: k
+Time part: 0.03378254181493135
+Phoneme: uô
+Time part: 0.12897736632397766
+Phoneme: l
+Time part: 0.11669587417401613
+Full Length: 0.31732426303854877
+Input File: bahnaric/dataset/raw\jưng_test.wav
+Phoneme: k
+Time part: 0.035219152570307104
+Phoneme: a
+Time part: 0.28210511046824166
+Full Length: 0.23156462585034013
+Input File: bahnaric/dataset/raw\ka_test.wav
+Phoneme: j
+Time part: 0.06603727735420199
+Phoneme: ư
+Time part: 0.08280937478603044
+Phoneme: ng
+Time part: 0.08271797371010768
+Full Length: 0.2673469387755102
+Input File: bahnaric/dataset/raw\kiang_test.wav
+Phoneme: k
+Time part: 0.03649144040409169
+Phoneme: ia
+Time part: 0.1742901197261948
+Phoneme: ng
+Time part: 0.056565378645223714
+Full Length: 0.17337868480725624
+Input File: bahnaric/dataset/raw\Klɤm_test.wav
+Phoneme: Kl
+Time part: 0.05654960573172132
+Phoneme: ɤm
+Time part: 0.11682907907553494
+Full Length: 0.2996371882086168
+Input File: bahnaric/dataset/raw\krôi_̆_test.wav
+Phoneme: k
+Time part: 0.02361242745711776
+Phoneme: r
+Time part: 0.06977226280577409
+Phoneme: o
+Time part: 0.05515857661478593
+Phoneme: i
+Time part: 0.15109392133093902
+Full Length: 0.29034013605442177
+Input File: bahnaric/dataset/raw\kung_test.wav
+Phoneme: j
+Time part: 0.03416712109182591
+Phoneme: u
+Time part: 0.1608006392367275
+Phoneme: l
+Time part: 0.09537237572586839
+Full Length: 0.16621315192743763
+Input File: bahnaric/dataset/raw\kuôl_test.wav
+Phoneme: j
+Time part: 0.025446628652343862
+Phoneme: ĭ
+Time part: 0.14076652327509379
+Full Length: 0.22104308390022676
+Input File: bahnaric/dataset/raw\kơpen_test.wav
+Phoneme: d
+Time part: 0.030467553513522885
+Phoneme: e
+Time part: 0.14547189186646442
+Phoneme: h
+Time part: 0.04510363852023945
+Full Length: 0.3075736961451247
+Input File: bahnaric/dataset/raw\lap_test.wav
+Phoneme: r
+Time part: 0.07429288593406301
+Phoneme: u
+Time part: 0.14643112745141226
+Phoneme: l
+Time part: 0.08684968275964937
+Full Length: 0.3707936507936508
+Input File: bahnaric/dataset/raw\le_gi_test.wav
+Phoneme: l
+Time part: 0.10507972269610164
+Phoneme: o
+Time part: 0.07106048269263239
+Phoneme: i
+Time part: 0.19465344540491678
+Full Length: 0.3438548752834467
+Input File: bahnaric/dataset/raw\li_long_test.wav
+Phoneme: r
+Time part: 0.0926644575386346
+Phoneme: a
+Time part: 0.25119041774481216
+Full Length: 0.38825396825396824
+Input File: bahnaric/dataset/raw\lêl_test.wav
+Phoneme: l
+Time part: 0.17904560463641242
+Phoneme: ê
+Time part: 0.03016275898114344
+Phoneme: l
+Time part: 0.17904560463641242
+Full Length: 0.27591836734693875
+Input File: bahnaric/dataset/raw\lŭ_test.wav
+Phoneme: d
+Time part: 0.04397830920260503
+Phoneme: a
+Time part: 0.23194005814433374
+Full Length: 0.12684807256235828
+Input File: bahnaric/dataset/raw\ma_test.wav
+Phoneme: h
+Time part: 0.058889443976865435
+Phoneme: ă
+Time part: 0.055763610077082845
+Phoneme: p
+Time part: 0.012195018508409988
+Full Length: 0.40607709750566895
+Input File: bahnaric/dataset/raw\mi_test.wav
+Phoneme: h
+Time part: 0.06526709114956392
+Phoneme: a
+Time part: 0.23251849073226713
+Phoneme: n
+Time part: 0.10829151562383789
+Full Length: 0.3414512471655329
+Input File: bahnaric/dataset/raw\mih_test.wav
+Phoneme: m
+Time part: 0.1249843036620373
+Phoneme: i
+Time part: 0.16018354063684878
+Phoneme: h
+Time part: 0.056283402866646806
+Full Length: 0.6389569160997732
+Input File: bahnaric/dataset/raw\mu_de_test.wav
+Phoneme: h
+Time part: 0.0644335557649382
+Phoneme: ă
+Time part: 0.06101344208594509
+Phoneme: m
+Time part: 0.14308273291205206
+Phoneme: đ
+Time part: 0.08409596110518537
+Phoneme: u
+Time part: 0.1669058786201443
+Phoneme: nh
+Time part: 0.11942534561150811
+Full Length: 0.19038548752834467
+Input File: bahnaric/dataset/raw\măt_test.wav
+Phoneme: m
+Time part: 0.12212599896136443
+Phoneme: ă
+Time part: 0.05207705649148781
+Phoneme: t
+Time part: 0.016182432075492397
+Full Length: 0.21034013605442176
+Input File: bahnaric/dataset/raw\pih_test.wav
+Phoneme: p
+Time part: 0.0107468150809202
+Phoneme: i
+Time part: 0.14769721567434707
+Phoneme: h
+Time part: 0.051896105299154484
+Full Length: 0.2123809523809524
+Input File: bahnaric/dataset/raw\plach_test.wav
+Phoneme: h
+Time part: 0.0887996841555847
+Phoneme: ă
+Time part: 0.0840862237409719
+Phoneme: k
+Time part: 0.0394950444843958
+Full Length: 0.33850340136054424
+Input File: bahnaric/dataset/raw\pu_pi_kơl_test.wav
+Phoneme: g
+Time part: 0.08536701919547941
+Phoneme: ô
+Time part: 0.25313638216506484
+Full Length: 0.30131519274376417
+Input File: bahnaric/dataset/raw\puən_test.wav
+Phoneme: p
+Time part: 0.017556626156225948
+Phoneme: uə
+Time part: 0.14309027068958474
+Phoneme: n
+Time part: 0.14066829589795346
+Full Length: 0.29346938775510206
+Input File: bahnaric/dataset/raw\pŭ_test.wav
+Phoneme: g
+Time part: 0.08715562352693224
+Phoneme: U
+Time part: 0.05123314220144324
+Phoneme: m
+Time part: 0.15508062202672657
+Full Length: 0.2577324263038549
+Input File: bahnaric/dataset/raw\pơlôch_test.wav
+Phoneme: l
+Time part: 0.07217688964081087
+Phoneme: ô
+Time part: 0.1738526270745749
+Phoneme: ch
+Time part: 0.011702909588469097
+Full Length: 0.27170068027210886
+Input File: bahnaric/dataset/raw\rai_loi_test.wav
+Phoneme: g
+Time part: 0.0828236826007318
+Phoneme: i
+Time part: 0.18887699767137708
+Full Length: 0.38077097505668933
+Input File: bahnaric/dataset/raw\re_test.wav
+Phoneme: g
+Time part: 0.09878268797282054
+Phoneme: a
+Time part: 0.2819882870838688
+Full Length: 0.3605895691609977
+Input File: bahnaric/dataset/raw\rim_test.wav
+Phoneme: đ
+Time part: 0.076948270723101
+Phoneme: u
+Time part: 0.15271980443003694
+Phoneme: m
+Time part: 0.1309214940078598
+Full Length: 0.2385034013605442
+Input File: bahnaric/dataset/raw\rop_test.wav
+Phoneme: r
+Time part: 0.12242740924785492
+Phoneme: o
+Time part: 0.09678518885858338
+Phoneme: p
+Time part: 0.01929080325410592
+Full Length: 0.2805442176870748
+Input File: bahnaric/dataset/raw\rɔk_trong_test.wav
+Phoneme: tr
+Time part: 0.07420954615570355
+Phoneme: o
+Time part: 0.12403119203270477
+Phoneme: ng
+Time part: 0.08230347949866648
+Full Length: 0.2999092970521542
+Input File: bahnaric/dataset/raw\rơ_yuh_test.wav
+Phoneme: d
+Time part: 0.033146790386156755
+Phoneme: u
+Time part: 0.1271086224344036
+Phoneme: i
+Time part: 0.1396538842315938
+Full Length: 0.1782766439909297
+Input File: bahnaric/dataset/raw\sĭt_test.wav
+Phoneme: s
+Time part: 0.12871025777034403
+Phoneme: ĭ
+Time part: 0.03650257408977629
+Phoneme: t
+Time part: 0.01306381213080936
+Full Length: 0.2824036281179138
+Input File: bahnaric/dataset/raw\tam_test.wav
+Phoneme: d
+Time part: 0.058411592474545665
+Phoneme: u
+Time part: 0.22399203564336811
+Full Length: 0.3073469387755102
+Input File: bahnaric/dataset/raw\ti_test.wav
+Phoneme: đ
+Time part: 0.06295494033476222
+Phoneme: i
+Time part: 0.1372790670343724
+Phoneme: m
+Time part: 0.10711293140637566
+Full Length: 0.2968253968253968
+Input File: bahnaric/dataset/raw\tu_test.wav
+Phoneme: đ
+Time part: 0.06558723744218617
+Phoneme: a
+Time part: 0.1790274133362814
+Phoneme: o
+Time part: 0.05221074604692929
+Full Length: 0.24213151927437643
+Input File: bahnaric/dataset/raw\tul_test.wav
+Phoneme: t
+Time part: 0.01611553759408048
+Phoneme: u
+Time part: 0.1418709708249897
+Phoneme: l
+Time part: 0.0841450108553063
+Full Length: 0.23206349206349206
+Input File: bahnaric/dataset/raw\tĭh_test.wav
+Phoneme: t
+Time part: 0.032263797767513515
+Phoneme: ĭ
+Time part: 0.09015068929602378
+Phoneme: h
+Time part: 0.10964900499995477
+Full Length: 0.1491609977324263
+Input File: bahnaric/dataset/raw\tơglech_test.wav
+Phoneme: g
+Time part: 0.10335682295517092
+Phoneme: ê
+Time part: 0.021435218155058635
+Phoneme: t
+Time part: 0.024368956622196746
+Full Length: 0.340907029478458
+Input File: bahnaric/dataset/raw\tơlăm_test.wav
+Phoneme: l
+Time part: 0.11134516121411898
+Phoneme: ă
+Time part: 0.06862627266103861
+Phoneme: m
+Time part: 0.16093559560330042
+Full Length: 0.2961451247165533
+Input File: bahnaric/dataset/raw\tơ_pa_test.wav
+Phoneme: d
+Time part: 0.056806840566891455
+Phoneme: i
+Time part: 0.23933828414966182
+Full Length: 0.09383219954648526
+Input File: bahnaric/dataset/raw\wă_test.wav
+Phoneme: c
+Time part: 0.024177838257012002
+Phoneme: U
+Time part: 0.05432081246194859
+Phoneme: p
+Time part: 0.015333548827524678
+Full Length: 0.23682539682539683
+Input File: bahnaric/dataset/raw\wɛh_test.wav
+Phoneme: nh
+Time part: 0.20135279447034155
+Phoneme: ɛ
+Time part: 0.0
+Phoneme: c
+Time part: 0.035472602355055324
+Full Length: 0.12258503401360545
+Input File: bahnaric/dataset/raw\Xơki_test.wav
+Phoneme: ch
+Time part: 0.013718448364972219
+Phoneme: ih
+Time part: 0.10886658564863322
+Full Length: 0.24054421768707482
+Input File: bahnaric/dataset/raw\yah_test.wav
+Phoneme: c
+Time part: 0.061678465748072724
+Phoneme: ă
+Time part: 0.17886575193900212
+Phoneme: q
+Time part: 0.0
+Full Length: 0.3416326530612245
+Input File: bahnaric/dataset/raw\yih_test.wav
+Phoneme: b
+Time part: 0.1018593889008708
+Phoneme: u
+Time part: 0.2397732641603537
+Full Length: 0.2072108843537415
+Input File: bahnaric/dataset/raw\yol_test.wav
+Phoneme: b
+Time part: 0.04431734987824212
+Phoneme: ĭ
+Time part: 0.12262053868180274
+Phoneme: h
+Time part: 0.04027299579369663
+Full Length: 0.24784580498866213
+Input File: bahnaric/dataset/raw\yup_long_test.wav
+Phoneme: l
+Time part: 0.13935820093702792
+Phoneme: ă
+Time part: 0.08589177823960599
+Phoneme: ch
+Time part: 0.022595825812028226
+Full Length: 0.26126984126984126
+Input File: bahnaric/dataset/raw\yŭ_test.wav
+Phoneme: b
+Time part: 0.061657292225826804
+Phoneme: a
+Time part: 0.19961254904401446
+Full Length: 0.26104308390022674
+Input File: bahnaric/dataset/raw\đao_test.wav
+Phoneme: t
+Time part: 0.02662790433414636
+Phoneme: u
+Time part: 0.2344151795660804
+Full Length: 0.2677551020408163
+Input File: bahnaric/dataset/raw\đim_test.wav
+Phoneme: t
+Time part: 0.02508894828263518
+Phoneme: i
+Time part: 0.24266615375818115
+Full Length: 0.26634920634920634
+Input File: bahnaric/dataset/raw\đu_test.wav
+Phoneme: t
+Time part: 0.022639214764022596
+Phoneme: ă
+Time part: 0.07285577722117866
+Phoneme: m
+Time part: 0.1708542143640051
+Full Length: 0.2873469387755102
+Input File: bahnaric/dataset/raw\đum_test.wav
+Phoneme: r
+Time part: 0.05918334422999113
+Phoneme: i
+Time part: 0.12816330154119837
+Phoneme: m
+Time part: 0.1000002930043207
+Full Length: 0.3308843537414966
+Input File: bahnaric/dataset/raw\ɲŭŋ_test.wav
+Phoneme: nh
+Time part: 0.18717545516230202
+Phoneme: U
+Time part: 0.07408547608766829
+Phoneme: ng
+Time part: 0.06962342249152627
+Full Length: 0.3490702947845805
+Input File: bahnaric/dataset/raw\ɉɯəŋ_test.wav
+Phoneme: ɉ
+Time part: 0.14457586010505205
+Phoneme: ɯə
+Time part: 0.15701080071289
+Phoneme: ng
+Time part: 0.04748363396663844
+Full Length: 0.3442176870748299
+Input File: bahnaric/dataset/raw\ʔabĕn_dum_test.wav
+Phoneme: đ
+Time part: 0.07345458115813565
+Phoneme: u
+Time part: 0.14578585280140616
+Phoneme: m
+Time part: 0.12497725311528812
+Full Length: 0.2941496598639456
+Input File: bahnaric/dataset/raw\ʔbɔh_test.wav
+Phoneme: b
+Time part: 0.10310559884354897
+Phoneme: o
+Time part: 0.09734776916311988
+Phoneme: h
+Time part: 0.09369629185727671
+Full Length: 0.3005895691609977
+Input File: bahnaric/dataset/raw\ʔbɤ̆r_test.wav
+Phoneme: b
+Time part: 0.1030093628531244
+Phoneme: â
+Time part: 0.07455610167043367
+Phoneme: r
+Time part: 0.12302410463743964
+Full Length: 0.18489795918367347
+Input File: bahnaric/dataset/raw\ʔdɔ̆k_test.wav
+Phoneme: d
+Time part: 0.0578439047404184
+Phoneme: o
+Time part: 0.08896828063573141
+Phoneme: k
+Time part: 0.03808577380752368
+Full Length: 0.17800453514739228
+Input File: bahnaric/dataset/raw\ʔdɤ̆k_test.wav
+Phoneme: đ
+Time part: 0.09123669911234421
+Phoneme: â
+Time part: 0.0556766198289543
+Phoneme: k
+Time part: 0.03109121620609379
+Full Length: 0.3272108843537415
+Input File: bahnaric/dataset/raw\ʔnăr_test.wav
+Phoneme: n
+Time part: 0.13848469205993771
+Phoneme: ă
+Time part: 0.07903419294329768
+Phoneme: r
+Time part: 0.10969199935050611
+Full Length: 0.3490702947845805
+Input File: bahnaric/dataset/raw\ʔɲuj_test.wav
+Phoneme: ng
+Time part: 0.039286252895095936
+Phoneme: u
+Time part: 0.147607785325077
+Phoneme: i
+Time part: 0.1621762565644076
+Full Length: 0.11083900226757369
+Input File: bahnaric/dataset/raw\Am vi Ba Na\apach_test.wav
+Phoneme: y
+Time part: 0.05767980464121689
+Phoneme: up
+Time part: 0.0531591976263568
+Full Length: 0.3495238095238095
+Input File: bahnaric/dataset/raw\Am vi Ba Na\Ba_test.wav
+Phoneme: 'b
+Time part: 0.10473936995239877
+Phoneme: a
+Time part: 0.24478443957141072
+Full Length: 0.15038548752834466
+Input File: bahnaric/dataset/raw\Am vi Ba Na\bar_test.wav
+Phoneme: y
+Time part: 0.08167323372103379
+Phoneme: ŭq
+Time part: 0.06871225380731086
+Full Length: 0.12263038548752835
+Input File: bahnaric/dataset/raw\Am vi Ba Na\bu_test.wav
+Phoneme: y
+Time part: 0.036550280673363654
+Phoneme: ih
+Time part: 0.08608010481416467
+Full Length: 0.22390022675736962
+Input File: bahnaric/dataset/raw\Am vi Ba Na\buch_test.wav
+Phoneme: y
+Time part: 0.04032556798551288
+Phoneme: ĕr
+Time part: 0.18357465877185675
+Full Length: 0.21419501133786847
+Input File: bahnaric/dataset/raw\Am vi Ba Na\bĭ_test.wav
+Phoneme: y
+Time part: 0.03891152617203031
+Phoneme: ol
+Time part: 0.17528348516583814
+Full Length: 0.6326530612244898
+Input File: bahnaric/dataset/raw\Am vi Ba Na\chih_test.wav
+Phoneme: s
+Time part: 0.24267976404531222
+Phoneme: ơ
+Time part: 0.1145004641553955
+Phoneme: k
+Time part: 0.037231516377643124
+Phoneme: i
+Time part: 0.23824131664613898
+Full Length: 0.23700680272108843
+Input File: bahnaric/dataset/raw\Am vi Ba Na\chup_test.wav
+Phoneme: v
+Time part: 0.12811770429850008
+Phoneme: ă
+Time part: 0.10888909842258833
+Full Length: 0.25414965986394555
+Input File: bahnaric/dataset/raw\Am vi Ba Na\chă_test.wav
+Phoneme: y
+Time part: 0.03949165006703975
+Phoneme: a
+Time part: 0.167610386460467
+Phoneme: h
+Time part: 0.04704762333643877
+Full Length: 0.5162811791383219
+Input File: bahnaric/dataset/raw\Am vi Ba Na\di_test.wav
+Phoneme: t
+Time part: 0.027967920726804346
+Phoneme: ơ
+Time part: 0.13001010139800007
+Phoneme: p
+Time part: 0.0196831407574619
+Phoneme: a
+Time part: 0.33862001625605564
+Full Length: 0.4708390022675737
+Input File: bahnaric/dataset/raw\Am vi Ba Na\dui_test.wav
+Phoneme: r
+Time part: 0.08700934365660583
+Phoneme: ơ
+Time part: 0.09055662826901889
+Phoneme: y
+Time part: 0.05557252447300332
+Phoneme: u
+Time part: 0.17149523982352843
+Phoneme: h
+Time part: 0.06620526604541722
+Full Length: 0.2873469387755102
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ga_test.wav
+Phoneme: r
+Time part: 0.08318984612038831
+Phoneme: e
+Time part: 0.20415709265512194
+Full Length: 0.23170068027210886
+Input File: bahnaric/dataset/raw\Am vi Ba Na\Goh_test.wav
+Phoneme: g
+Time part: 0.07109864737417808
+Phoneme: oh
+Time part: 0.16060203289793076
+Full Length: 0.1946485260770975
+Input File: bahnaric/dataset/raw\Am vi Ba Na\Grâm_test.wav
+Phoneme: Gr
+Time part: 0.04633151587236161
+Phoneme: âm
+Time part: 0.1483170102047359
+Full Length: 0.3580952380952381
+Input File: bahnaric/dataset/raw\Am vi Ba Na\grưa_test.wav
+Phoneme: ch
+Time part: 0.01740272607606397
+Phoneme: r
+Time part: 0.09181224139313901
+Phoneme: a
+Time part: 0.24888027062603513
+Full Length: 0.4976417233560091
+Input File: bahnaric/dataset/raw\Am vi Ba Na\gum_test.wav
+Phoneme: i
+Time part: 0.188917123976044
+Phoneme: nh
+Time part: 0.12303203047022537
+Phoneme: p
+Time part: 0.013746077661113607
+Phoneme: u
+Time part: 0.17194649124862618
+Full Length: 0.23206349206349206
+Input File: bahnaric/dataset/raw\Am vi Ba Na\gô_test.wav
+Phoneme: k
+Time part: 0.03081979840761323
+Phoneme: ơ
+Time part: 0.09478209770060467
+Phoneme: l
+Time part: 0.10646159595527416
+Full Length: 0.36421768707482993
+Input File: bahnaric/dataset/raw\Am vi Ba Na\han_test.wav
+Phoneme: m
+Time part: 0.1596305295653674
+Phoneme: i
+Time part: 0.20458715750946255
+Full Length: 0.19401360544217688
+Input File: bahnaric/dataset/raw\Am vi Ba Na\hâk_test.wav
+Phoneme: h
+Time part: 0.10004299359340287
+Phoneme: ư
+Time part: 0.06904896539739605
+Phoneme: ch
+Time part: 0.02492164645137794
+Full Length: 0.2573242630385488
+Input File: bahnaric/dataset/raw\Am vi Ba Na\hăk_test.wav
+Phoneme: p
+Time part: 0.009592500383198005
+Phoneme: l
+Time part: 0.07116741317405775
+Phoneme: a
+Time part: 0.16502511848691256
+Phoneme: ch
+Time part: 0.011539230994380456
+Full Length: 0.5687074829931973
+Input File: bahnaric/dataset/raw\Am vi Ba Na\hămđunh_test.wav
+Phoneme: m
+Time part: 0.14496329004809058
+Phoneme: u
+Time part: 0.1690995468196385
+Phoneme: d
+Time part: 0.04409698669905152
+Phoneme: e
+Time part: 0.21054765942641673
+Full Length: 0.2924716553287982
+Input File: bahnaric/dataset/raw\Am vi Ba Na\hăp_test.wav
+Phoneme: m
+Time part: 0.11230296327713468
+Phoneme: a
+Time part: 0.18016869205166353
+Phoneme: q
+Time part: 0.0
+Full Length: 0.27197278911564626
+Input File: bahnaric/dataset/raw\Am vi Ba Na\hơlah_test.wav
+Phoneme: c
+Time part: 0.016368489581001237
+Phoneme: a
+Time part: 0.17858790673794753
+Phoneme: l
+Time part: 0.0770163927966975
+Full Length: 0.32090702947845806
+Input File: bahnaric/dataset/raw\Am vi Ba Na\hơ_da_test.wav
+Phoneme: l
+Time part: 0.13612351683306356
+Phoneme: ŭ
+Time part: 0.09618247749454087
+Phoneme: h
+Time part: 0.0886010351508536
+Full Length: 0.3132879818594104
+Input File: bahnaric/dataset/raw\Am vi Ba Na\hơ_lah_test.wav
+Phoneme: l
+Time part: 0.13818123516673705
+Phoneme: ă
+Time part: 0.08516636931312946
+Phoneme: h
+Time part: 0.08994037737954393
+Full Length: 0.5366439909297052
+Input File: bahnaric/dataset/raw\Am vi Ba Na\hơ_long_test.wav
+Phoneme: h
+Time part: 0.0952749289478356
+Phoneme: ơ
+Time part: 0.1303185809746256
+Phoneme: l
+Time part: 0.1463770527321507
+Phoneme: o
+Time part: 0.09898792797877669
+Phoneme: ng
+Time part: 0.06568550029631653
+Full Length: 0.5523356009070295
+Input File: bahnaric/dataset/raw\Am vi Ba Na\hơ_ra_test.wav
+Phoneme: l
+Time part: 0.11096801460375687
+Phoneme: i
+Time part: 0.20556112842849886
+Phoneme: l
+Time part: 0.11096801460375687
+Phoneme: o
+Time part: 0.075042458039134
+Phoneme: ng
+Time part: 0.04979598523188295
+Full Length: 0.20784580498866212
+Input File: bahnaric/dataset/raw\Am vi Ba Na\hơ_rul_test.wav
+Phoneme: l
+Time part: 0.060182054851349163
+Phoneme: a
+Time part: 0.13955194223990788
+Phoneme: p
+Time part: 0.008111807897405055
+Full Length: 0.2872108843537415
+Input File: bahnaric/dataset/raw\Am vi Ba Na\jal_test.wav
+Phoneme: l
+Time part: 0.06650201504252679
+Phoneme: a
+Time part: 0.1542068542686879
+Phoneme: l
+Time part: 0.06650201504252679
+Full Length: 0.303718820861678
+Input File: bahnaric/dataset/raw\Am vi Ba Na\jur_test.wav
+Phoneme: k
+Time part: 0.03626842621999995
+Phoneme: u
+Time part: 0.21123071026411586
+Phoneme: ng
+Time part: 0.05621968437756224
+Full Length: 0.06816326530612245
+Input File: bahnaric/dataset/raw\Am vi Ba Na\Jĕryŏng_test.wav
+Phoneme: b
+Time part: 0.03746645233435843
+Phoneme: uch
+Time part: 0.030696812971764013
+Full Length: 0.27945578231292517
+Input File: bahnaric/dataset/raw\Am vi Ba Na\jĭ_test.wav
+Phoneme: k
+Time part: 0.03378254181493135
+Phoneme: uô
+Time part: 0.12897736632397766
+Phoneme: l
+Time part: 0.11669587417401613
+Full Length: 0.31732426303854877
+Input File: bahnaric/dataset/raw\Am vi Ba Na\jưng_test.wav
+Phoneme: k
+Time part: 0.035219152570307104
+Phoneme: a
+Time part: 0.28210511046824166
+Full Length: 0.23156462585034013
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ka_test.wav
+Phoneme: j
+Time part: 0.06603727735420199
+Phoneme: ư
+Time part: 0.08280937478603044
+Phoneme: ng
+Time part: 0.08271797371010768
+Full Length: 0.2673469387755102
+Input File: bahnaric/dataset/raw\Am vi Ba Na\kiang_test.wav
+Phoneme: k
+Time part: 0.03649144040409169
+Phoneme: ia
+Time part: 0.1742901197261948
+Phoneme: ng
+Time part: 0.056565378645223714
+Full Length: 0.17337868480725624
+Input File: bahnaric/dataset/raw\Am vi Ba Na\Klɤm_test.wav
+Phoneme: Kl
+Time part: 0.05654960573172132
+Phoneme: ɤm
+Time part: 0.11682907907553494
+Full Length: 0.2996371882086168
+Input File: bahnaric/dataset/raw\Am vi Ba Na\krôi_̆_test.wav
+Phoneme: k
+Time part: 0.02361242745711776
+Phoneme: r
+Time part: 0.06977226280577409
+Phoneme: o
+Time part: 0.05515857661478593
+Phoneme: i
+Time part: 0.15109392133093902
+Full Length: 0.29034013605442177
+Input File: bahnaric/dataset/raw\Am vi Ba Na\kung_test.wav
+Phoneme: j
+Time part: 0.03416712109182591
+Phoneme: u
+Time part: 0.1608006392367275
+Phoneme: l
+Time part: 0.09537237572586839
+Full Length: 0.16621315192743763
+Input File: bahnaric/dataset/raw\Am vi Ba Na\kuôl_test.wav
+Phoneme: j
+Time part: 0.025446628652343862
+Phoneme: ĭ
+Time part: 0.14076652327509379
+Full Length: 0.22104308390022676
+Input File: bahnaric/dataset/raw\Am vi Ba Na\kơpen_test.wav
+Phoneme: d
+Time part: 0.030467553513522885
+Phoneme: e
+Time part: 0.14547189186646442
+Phoneme: h
+Time part: 0.04510363852023945
+Full Length: 0.3075736961451247
+Input File: bahnaric/dataset/raw\Am vi Ba Na\lap_test.wav
+Phoneme: r
+Time part: 0.07429288593406301
+Phoneme: u
+Time part: 0.14643112745141226
+Phoneme: l
+Time part: 0.08684968275964937
+Full Length: 0.3707936507936508
+Input File: bahnaric/dataset/raw\Am vi Ba Na\le_gi_test.wav
+Phoneme: l
+Time part: 0.10507972269610164
+Phoneme: o
+Time part: 0.07106048269263239
+Phoneme: i
+Time part: 0.19465344540491678
+Full Length: 0.3438548752834467
+Input File: bahnaric/dataset/raw\Am vi Ba Na\li_long_test.wav
+Phoneme: r
+Time part: 0.0926644575386346
+Phoneme: a
+Time part: 0.25119041774481216
+Full Length: 0.38825396825396824
+Input File: bahnaric/dataset/raw\Am vi Ba Na\lêl_test.wav
+Phoneme: l
+Time part: 0.17904560463641242
+Phoneme: ê
+Time part: 0.03016275898114344
+Phoneme: l
+Time part: 0.17904560463641242
+Full Length: 0.27591836734693875
+Input File: bahnaric/dataset/raw\Am vi Ba Na\lŭ_test.wav
+Phoneme: d
+Time part: 0.04397830920260503
+Phoneme: a
+Time part: 0.23194005814433374
+Full Length: 0.12684807256235828
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ma_test.wav
+Phoneme: h
+Time part: 0.058889443976865435
+Phoneme: ă
+Time part: 0.055763610077082845
+Phoneme: p
+Time part: 0.012195018508409988
+Full Length: 0.40607709750566895
+Input File: bahnaric/dataset/raw\Am vi Ba Na\mi_test.wav
+Phoneme: h
+Time part: 0.06526709114956392
+Phoneme: a
+Time part: 0.23251849073226713
+Phoneme: n
+Time part: 0.10829151562383789
+Full Length: 0.3414512471655329
+Input File: bahnaric/dataset/raw\Am vi Ba Na\mih_test.wav
+Phoneme: m
+Time part: 0.1249843036620373
+Phoneme: i
+Time part: 0.16018354063684878
+Phoneme: h
+Time part: 0.056283402866646806
+Full Length: 0.6389569160997732
+Input File: bahnaric/dataset/raw\Am vi Ba Na\mu_de_test.wav
+Phoneme: h
+Time part: 0.0644335557649382
+Phoneme: ă
+Time part: 0.06101344208594509
+Phoneme: m
+Time part: 0.14308273291205206
+Phoneme: đ
+Time part: 0.08409596110518537
+Phoneme: u
+Time part: 0.1669058786201443
+Phoneme: nh
+Time part: 0.11942534561150811
+Full Length: 0.19038548752834467
+Input File: bahnaric/dataset/raw\Am vi Ba Na\măt_test.wav
+Phoneme: m
+Time part: 0.12212599896136443
+Phoneme: ă
+Time part: 0.05207705649148781
+Phoneme: t
+Time part: 0.016182432075492397
+Full Length: 0.21034013605442176
+Input File: bahnaric/dataset/raw\Am vi Ba Na\pih_test.wav
+Phoneme: p
+Time part: 0.0107468150809202
+Phoneme: i
+Time part: 0.14769721567434707
+Phoneme: h
+Time part: 0.051896105299154484
+Full Length: 0.2123809523809524
+Input File: bahnaric/dataset/raw\Am vi Ba Na\plach_test.wav
+Phoneme: h
+Time part: 0.0887996841555847
+Phoneme: ă
+Time part: 0.0840862237409719
+Phoneme: k
+Time part: 0.0394950444843958
+Full Length: 0.33850340136054424
+Input File: bahnaric/dataset/raw\Am vi Ba Na\pu_pi_kơl_test.wav
+Phoneme: g
+Time part: 0.08536701919547941
+Phoneme: ô
+Time part: 0.25313638216506484
+Full Length: 0.30131519274376417
+Input File: bahnaric/dataset/raw\Am vi Ba Na\puən_test.wav
+Phoneme: p
+Time part: 0.017556626156225948
+Phoneme: uə
+Time part: 0.14309027068958474
+Phoneme: n
+Time part: 0.14066829589795346
+Full Length: 0.29346938775510206
+Input File: bahnaric/dataset/raw\Am vi Ba Na\pŭ_test.wav
+Phoneme: g
+Time part: 0.08715562352693224
+Phoneme: U
+Time part: 0.05123314220144324
+Phoneme: m
+Time part: 0.15508062202672657
+Full Length: 0.2577324263038549
+Input File: bahnaric/dataset/raw\Am vi Ba Na\pơlôch_test.wav
+Phoneme: l
+Time part: 0.07217688964081087
+Phoneme: ô
+Time part: 0.1738526270745749
+Phoneme: ch
+Time part: 0.011702909588469097
+Full Length: 0.5918820861678005
+Input File: bahnaric/dataset/raw\Am vi Ba Na\rai_loi_test.wav
+Phoneme: l
+Time part: 0.15440922974061172
+Phoneme: ê
+Time part: 0.02601241393547676
+Phoneme: g
+Time part: 0.1254272497866415
+Phoneme: i
+Time part: 0.28603319270507055
+Full Length: 0.38077097505668933
+Input File: bahnaric/dataset/raw\Am vi Ba Na\re_test.wav
+Phoneme: g
+Time part: 0.09878268797282054
+Phoneme: a
+Time part: 0.2819882870838688
+Full Length: 0.3605895691609977
+Input File: bahnaric/dataset/raw\Am vi Ba Na\rim_test.wav
+Phoneme: đ
+Time part: 0.076948270723101
+Phoneme: u
+Time part: 0.15271980443003694
+Phoneme: m
+Time part: 0.1309214940078598
+Full Length: 0.2385034013605442
+Input File: bahnaric/dataset/raw\Am vi Ba Na\rop_test.wav
+Phoneme: r
+Time part: 0.12242740924785492
+Phoneme: o
+Time part: 0.09678518885858338
+Phoneme: p
+Time part: 0.01929080325410592
+Full Length: 0.5628571428571428
+Input File: bahnaric/dataset/raw\Am vi Ba Na\rɔk_trong_test.wav
+Phoneme: r
+Time part: 0.18002454301870305
+Phoneme: ɔ
+Time part: 0.06092415942368033
+Phoneme: k
+Time part: 0.0851512088319553
+Phoneme: tr
+Time part: 0.14231869727775545
+Phoneme: o
+Time part: 0.09443853430504867
+IndexError occurred. Skipping this phoneme.
+Full Length: 0.2999092970521542
+Input File: bahnaric/dataset/raw\Am vi Ba Na\rơ_yuh_test.wav
+Phoneme: d
+Time part: 0.033146790386156755
+Phoneme: u
+Time part: 0.1271086224344036
+Phoneme: i
+Time part: 0.1396538842315938
+Full Length: 0.1782766439909297
+Input File: bahnaric/dataset/raw\Am vi Ba Na\sĭt_test.wav
+Phoneme: s
+Time part: 0.12871025777034403
+Phoneme: ĭ
+Time part: 0.03650257408977629
+Phoneme: t
+Time part: 0.01306381213080936
+Full Length: 0.2824036281179138
+Input File: bahnaric/dataset/raw\Am vi Ba Na\tam_test.wav
+Phoneme: d
+Time part: 0.058411592474545665
+Phoneme: u
+Time part: 0.22399203564336811
+Full Length: 0.3073469387755102
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ti_test.wav
+Phoneme: đ
+Time part: 0.06295494033476222
+Phoneme: i
+Time part: 0.1372790670343724
+Phoneme: m
+Time part: 0.10711293140637566
+Full Length: 0.2968253968253968
+Input File: bahnaric/dataset/raw\Am vi Ba Na\tu_test.wav
+Phoneme: đ
+Time part: 0.06558723744218617
+Phoneme: a
+Time part: 0.1790274133362814
+Phoneme: o
+Time part: 0.05221074604692929
+Full Length: 0.24213151927437643
+Input File: bahnaric/dataset/raw\Am vi Ba Na\tul_test.wav
+Phoneme: t
+Time part: 0.01611553759408048
+Phoneme: u
+Time part: 0.1418709708249897
+Phoneme: l
+Time part: 0.0841450108553063
+Full Length: 0.23206349206349206
+Input File: bahnaric/dataset/raw\Am vi Ba Na\tĭh_test.wav
+Phoneme: t
+Time part: 0.032263797767513515
+Phoneme: ĭ
+Time part: 0.09015068929602378
+Phoneme: h
+Time part: 0.10964900499995477
+Full Length: 0.1491609977324263
+Input File: bahnaric/dataset/raw\Am vi Ba Na\tơglech_test.wav
+Phoneme: g
+Time part: 0.10335682295517092
+Phoneme: ê
+Time part: 0.021435218155058635
+Phoneme: t
+Time part: 0.024368956622196746
+Full Length: 0.340907029478458
+Input File: bahnaric/dataset/raw\Am vi Ba Na\tơlăm_test.wav
+Phoneme: l
+Time part: 0.11134516121411898
+Phoneme: ă
+Time part: 0.06862627266103861
+Phoneme: m
+Time part: 0.16093559560330042
+Full Length: 0.2961451247165533
+Input File: bahnaric/dataset/raw\Am vi Ba Na\tơ_pa_test.wav
+Phoneme: d
+Time part: 0.056806840566891455
+Phoneme: i
+Time part: 0.23933828414966182
+Full Length: 0.09383219954648526
+Input File: bahnaric/dataset/raw\Am vi Ba Na\wă_test.wav
+Phoneme: c
+Time part: 0.024177838257012002
+Phoneme: U
+Time part: 0.05432081246194859
+Phoneme: p
+Time part: 0.015333548827524678
+Full Length: 0.23682539682539683
+Input File: bahnaric/dataset/raw\Am vi Ba Na\wɛh_test.wav
+Phoneme: nh
+Time part: 0.20135279447034155
+Phoneme: ɛ
+Time part: 0.0
+Phoneme: c
+Time part: 0.035472602355055324
+Full Length: 0.12258503401360545
+Input File: bahnaric/dataset/raw\Am vi Ba Na\Xơki_test.wav
+Phoneme: ch
+Time part: 0.013718448364972219
+Phoneme: ih
+Time part: 0.10886658564863322
+Full Length: 0.24054421768707482
+Input File: bahnaric/dataset/raw\Am vi Ba Na\yah_test.wav
+Phoneme: c
+Time part: 0.061678465748072724
+Phoneme: ă
+Time part: 0.17886575193900212
+Phoneme: q
+Time part: 0.0
+Full Length: 0.3416326530612245
+Input File: bahnaric/dataset/raw\Am vi Ba Na\yih_test.wav
+Phoneme: b
+Time part: 0.1018593889008708
+Phoneme: u
+Time part: 0.2397732641603537
+Full Length: 0.2072108843537415
+Input File: bahnaric/dataset/raw\Am vi Ba Na\yol_test.wav
+Phoneme: b
+Time part: 0.04431734987824212
+Phoneme: ĭ
+Time part: 0.12262053868180274
+Phoneme: h
+Time part: 0.04027299579369663
+Full Length: 0.24784580498866213
+Input File: bahnaric/dataset/raw\Am vi Ba Na\yup_long_test.wav
+Phoneme: l
+Time part: 0.13935820093702792
+Phoneme: ă
+Time part: 0.08589177823960599
+Phoneme: ch
+Time part: 0.022595825812028226
+Full Length: 0.26126984126984126
+Input File: bahnaric/dataset/raw\Am vi Ba Na\yŭ_test.wav
+Phoneme: b
+Time part: 0.061657292225826804
+Phoneme: a
+Time part: 0.19961254904401446
+Full Length: 0.26104308390022674
+Input File: bahnaric/dataset/raw\Am vi Ba Na\đao_test.wav
+Phoneme: t
+Time part: 0.02662790433414636
+Phoneme: u
+Time part: 0.2344151795660804
+Full Length: 0.2677551020408163
+Input File: bahnaric/dataset/raw\Am vi Ba Na\đim_test.wav
+Phoneme: t
+Time part: 0.02508894828263518
+Phoneme: i
+Time part: 0.24266615375818115
+Full Length: 0.26634920634920634
+Input File: bahnaric/dataset/raw\Am vi Ba Na\đu_test.wav
+Phoneme: t
+Time part: 0.022639214764022596
+Phoneme: ă
+Time part: 0.07285577722117866
+Phoneme: m
+Time part: 0.1708542143640051
+Full Length: 0.2873469387755102
+Input File: bahnaric/dataset/raw\Am vi Ba Na\đum_test.wav
+Phoneme: r
+Time part: 0.05918334422999113
+Phoneme: i
+Time part: 0.12816330154119837
+Phoneme: m
+Time part: 0.1000002930043207
+Full Length: 0.3308843537414966
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ɲŭŋ_test.wav
+Phoneme: nh
+Time part: 0.18717545516230202
+Phoneme: U
+Time part: 0.07408547608766829
+Phoneme: ng
+Time part: 0.06962342249152627
+Full Length: 0.3490702947845805
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ɉɯəŋ_test.wav
+Phoneme: ɉ
+Time part: 0.14457586010505205
+Phoneme: ɯə
+Time part: 0.15701080071289
+Phoneme: ng
+Time part: 0.04748363396663844
+Full Length: 0.3442176870748299
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ʔabĕn_dum_test.wav
+Phoneme: đ
+Time part: 0.07345458115813565
+Phoneme: u
+Time part: 0.14578585280140616
+Phoneme: m
+Time part: 0.12497725311528812
+Full Length: 0.2941496598639456
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ʔbɔh_test.wav
+Phoneme: b
+Time part: 0.10310559884354897
+Phoneme: o
+Time part: 0.09734776916311988
+Phoneme: h
+Time part: 0.09369629185727671
+Full Length: 0.3005895691609977
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ʔbɤ̆r_test.wav
+Phoneme: b
+Time part: 0.1030093628531244
+Phoneme: â
+Time part: 0.07455610167043367
+Phoneme: r
+Time part: 0.12302410463743964
+Full Length: 0.18489795918367347
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ʔdɔ̆k_test.wav
+Phoneme: d
+Time part: 0.0578439047404184
+Phoneme: o
+Time part: 0.08896828063573141
+Phoneme: k
+Time part: 0.03808577380752368
+Full Length: 0.17800453514739228
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ʔdɤ̆k_test.wav
+Phoneme: đ
+Time part: 0.09123669911234421
+Phoneme: â
+Time part: 0.0556766198289543
+Phoneme: k
+Time part: 0.03109121620609379
+Full Length: 0.3272108843537415
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ʔnăr_test.wav
+Phoneme: n
+Time part: 0.13848469205993771
+Phoneme: ă
+Time part: 0.07903419294329768
+Phoneme: r
+Time part: 0.10969199935050611
+Full Length: 0.3490702947845805
+Input File: bahnaric/dataset/raw\Am vi Ba Na\ʔɲuj_test.wav
+Phoneme: ng
+Time part: 0.039286252895095936
+Phoneme: u
+Time part: 0.147607785325077
+Phoneme: i
+Time part: 0.1621762565644076

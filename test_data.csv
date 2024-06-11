@@ -1,0 +1,11 @@
+file_name,phoneme
+bahnaric/dataset/raw/TestAudio\rong_3.wav,"['r', 'o', 'ng']"
+bahnaric/dataset/raw/TestAudio\sen_3.wav,"['s', 'e', 'n']"
+bahnaric/dataset/raw/TestAudio\sơm_3.wav,"['s', 'ơ', 'm']"
+bahnaric/dataset/raw/TestAudio\sung_3.wav,"['s', 'u', 'ng']"
+bahnaric/dataset/raw/TestAudio\ta_3.wav,"['t', 'a']"
+bahnaric/dataset/raw/TestAudio\tam_3.wav,"['t', 'a', 'm']"
+bahnaric/dataset/raw/TestAudio\tol_3.wav,"['t', 'o', 'l']"
+bahnaric/dataset/raw/TestAudio\yak_6.wav,"['y', 'a', 'k']"
+bahnaric/dataset/raw/TestAudio\yol_3.wav,"['y', 'o', 'l']"
+bahnaric/dataset/raw/TestAudio\yui_3.wav,"['y', 'u', 'i']"
